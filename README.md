@@ -1,10 +1,10 @@
-## QuadBtech
+## Brand Klin
 
 ## Live Demo
 
-Check out the live demo : (https://quadbtech-todo-flame.vercel.app/)
+Check out the live demo : (https://tasklybrandklin.netlify.app/)
 
-A simple and responsive Todo application built with React, Vite, Tailwind CSS, React Icons, and Redux Toolkit.
+A simple and responsive task Dashboard built with React, Vite, Tailwind CSS, React Icons, and Redux Toolkit.
 
 ## Table of Contents
 
@@ -21,7 +21,8 @@ A simple and responsive Todo application built with React, Vite, Tailwind CSS, R
 - Add, and delete tasks.
 - Mark tasks as important or completed.
 - Responsive design for mobile, tablet, and desktop.
--
+- Add Schedule with time.
+- Add weekly Task.
 
 ## Installation
 
@@ -30,8 +31,8 @@ To get started with this project, clone the repository and follow the installati
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/shadabBhai/quadbtech
-cd react-todo-app
+git clone https://github.com/iam-zeenat-khan/Tasklybyzee
+cd react-taskly-app
 
 
 ### 2. Installation dependencies
@@ -69,11 +70,12 @@ Redux Toolkit: The official, recommended way to write Redux logic.
 ## Screenshot  of th web app
 ```
 
-![Screenshot of the Todo App](./public/1.png)
+![Screenshot of the Taskly App](./public/1.png)
 
-![Screenshot of the Todo App](./public/2.png)
-![Screenshot of the Todo App](./public/3.png)
-![Screenshot of the Todo App](./public/4.png)
+![Screenshot of the Taskly App](./public/2.png)
+![Screenshot of the Taskly App](./public/3.png)
+![Screenshot of the Taskly App](./public/4.png)
+![Screenshot of the Taskly App](./public/5.png)
 
 ```
 
