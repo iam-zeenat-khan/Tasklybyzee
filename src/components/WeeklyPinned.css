@@ -1,0 +1,21 @@
+.weekly-pinned {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.task-item {
+  margin-bottom: 10px;
+}
+
+.add-pin-btn {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: #f9a825;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+}
