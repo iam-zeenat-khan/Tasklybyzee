@@ -73,8 +73,11 @@ Redux Toolkit: The official, recommended way to write Redux logic.
 ![Screenshot of the Taskly App](./public/1.png)
 
 ![Screenshot of the Taskly App](./public/2.png)
+
 ![Screenshot of the Taskly App](./public/3.png)
+
 ![Screenshot of the Taskly App](./public/4.png)
+
 ![Screenshot of the Taskly App](./public/5.png)
 
 ```
